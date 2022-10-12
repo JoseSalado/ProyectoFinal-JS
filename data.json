@@ -1,0 +1,5 @@
+[
+    {"id":1 , "sabor":"Jamon y Queso", "precio": 500},
+    {"id":2 , "sabor": "Ternera y Queso", "precio": 550},
+    {"id":3 , "sabor": "Calabaza y Queso", "precio": 450}
+]
