@@ -37,7 +37,7 @@ botonVaciarCarrito.addEventListener(`click`,()=>{
 //Dibuje los productos con fetch
 
 const dibujarTarjeta = async()=>{
-    const respuesta = await fetch(`./data.json`)
+    const respuesta = await fetch(`/data.json`)
     const data = await respuesta.json()
     
     data.forEach((producto,prodId)=>{
